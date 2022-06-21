@@ -1,0 +1,10 @@
+"npm init -Y" orqali bosh package.json yaratib olamiz
+
+"npm i json-server -D" orqali serverni yuklab olamiza
+
+.gitignore fayli orqali shart bulmagan papklarni yuklanishdan tuxtatamiza
+
+
+
+
+"npx json-server --watch db.json" yoki  "json-server --watch db.json" orqali json.serverini ishga tushiramiza
